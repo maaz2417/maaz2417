@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently a student of Software Engineering <br>🌱 I’m currently learning about AI and Python<br>⚡ I like things simple and minimalistic
+🔭 I’m currently a student of Software Engineering <br>🌱 I’m currently working on a project named TaskFlow<br>
 
 
 ## 🌐 Socials:
