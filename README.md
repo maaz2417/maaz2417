@@ -1,5 +1,10 @@
-#  About Me:
-🔭 I’m currently a student of Software Engineering <br>🌱 I’m currently working on a project named TaskFlow<br>
+#  Maaz Arshad Akhund:
+On a mission to perfect my dev setup, understand the low-level details of memory, and ship seriously fast software.
+
+Fun Facts
+- I’m currently a student of Software Engineering 
+- I’m currently working on a project named TaskFlow
+- I'm a part time / was a full time youtuber on [centifyy](https://www.youtube.com/@centifyy)
 
 
 ## 🌐 Socials:
