@@ -1,4 +1,4 @@
-#  Maaz Arshad Akhund:
+#  Maaz Arshad Akhund
 On a mission to perfect my dev setup, understand the low-level details of memory, and ship seriously fast software.
 
 Fun Facts
