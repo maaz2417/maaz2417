@@ -7,6 +7,6 @@ Fun Facts
 - I usually post my career journey on [LinkedIn](https://linkedin.com/in/maazarshadakhund1)
 - Former full time YouTuber, now posts once a year and calls it a comeback — [centifyy](https://www.youtube.com/@centifyy)
 - 90% Linux, 10% "why won't this driver work," 0% regrets
-- Currently on a personal mission to shave seconds off my laptop's boot time, purely out of spite for slow software
+- Currently on a personal mission to shave seconds off my laptops boot time, purely out of spite for slow software
 - I build my own PCs and will absolutely lecture you on cable management
 
