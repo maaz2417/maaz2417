@@ -4,7 +4,6 @@ On a mission to perfect my dev setup, understand the low level details of memory
 Fun Facts
 - I’m currently a student of Software Engineering 
 - I’m currently working on a project named BunkBalance
-- Also working on a group semester project named PC Performance Dashboard
 - I have worked on a project named TaskFlow
 - I usually post my career journey on [LinkedIn](https://linkedin.com/in/maazarshadakhund1)
 - Former full time YouTuber, now posts once a year and calls it a comeback — [centifyy](https://www.youtube.com/@centifyy)
