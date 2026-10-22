@@ -4,10 +4,12 @@ On a mission to perfect my dev setup, understand the low level details of memory
 Fun Facts
 - I’m currently a student of Software Engineering 
 - Currently building BunkBalance and figuring things out as I go.
-- I have worked on a project named TaskFlow
+- I've previously worked on TaskFlow.
 - I usually post my career journey on [LinkedIn](https://linkedin.com/in/maazarshadakhund1)
 - Former full time YouTuber, now posts once a year and calls it a comeback — [centifyy](https://www.youtube.com/@centifyy)
 - 90% Linux, 10% "why wont this driver work," 0% regrets
 - Currently on a personal mission to shave seconds off my laptops boot time, purely out of spite for slow software
-- I build my own PCs and will absolutely lecture you on cable management 
+- I build my own PCs and will absolutely lecture you on cable management
+- I go down random technical rabbit holes and somehow come back with a new project.
+- If it works, don't touch it. If it breaks, well, that's tomorrow's problem.
 
