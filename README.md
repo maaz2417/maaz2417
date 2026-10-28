@@ -4,6 +4,7 @@ On a mission to perfect my dev setup, understand the low level details of memory
 Fun Facts
 - I’m currently a student of Software Engineering 
 - Currently building BunkBalance and figuring things out as I go.
+- Made a secret app which im proud of but its a secret
 - I've previously worked on TaskFlow.
 - I usually post my career journey on [LinkedIn](https://linkedin.com/in/maazarshadakhund1)
 - Former full time YouTuber, now posts once a year and calls it a comeback — [centifyy](https://www.youtube.com/@centifyy)
