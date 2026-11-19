@@ -12,4 +12,4 @@ Fun Facts
 - Currently on a personal mission to shave seconds off my laptops boot time, purely out of spite for slow software
 - I build my own PCs and will absolutely lecture you on cable management
 - I go down random technical rabbit holes and somehow come back with a new project.
-- If it works, don't touch it. If it breaks, well, that's tomorrow's problem.
+- If it works, don't touch it. If it breaks, well, that's tomorrow's problem
